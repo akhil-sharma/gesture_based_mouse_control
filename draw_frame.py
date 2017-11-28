@@ -2,7 +2,7 @@ import cv2
 import image_analysis
 import pyautogui as pag
 
-
+pag.FAILSAFE = False
 class DrawFrame:
     def __init__(self):
         self.row_ratio = None
