@@ -1,2 +1,2 @@
 # Gesture Based Mouse Control
-A simple application to control the movement of mouse pointer using gestures
+A Python3 application to control the movement of mouse pointer using gestures
